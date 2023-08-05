@@ -1,0 +1,19 @@
+Seja bem vindo ao meu projeto Blog de Gatos
+
+O principal objetivo é desenvolver um site com intuito de apresentar artigos sobre gatos. Os seus componentes são :
+-> Uma barra de busca 
+-> Recomendações de outros artigos relacionados.
+-> Avaliação.
+
+Recursos de estrutura HTML semânticas:
+
+<header>
+<main>
+	<section>
+<footer>
+
+Cores :
+
+
+
+
